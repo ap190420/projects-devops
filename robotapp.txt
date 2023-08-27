@@ -1,1 +1,0 @@
-this page is for robotic code developed with python and java
